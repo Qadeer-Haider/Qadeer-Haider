@@ -9,8 +9,6 @@ I am an aspiring Data Scientist with a passion for computer vision, machine lear
 ## 🛠️ My Tech Stack
 <p align="center">
 
-Got it. Here are the icons with links that open in a new tab:
-
 <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
 <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/></a>

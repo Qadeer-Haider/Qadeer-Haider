@@ -27,12 +27,12 @@ I am an aspiring Data Scientist with a passion for computer vision, machine lear
 
 
   
-</p>
+<!-- </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Qadeer-Haider&theme=onedark" alt="trophy">
-</p>
+</p> -->
 
 ## 📄 Profile Summary Card
 <p align="center">
